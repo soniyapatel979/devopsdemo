@@ -1,10 +1,17 @@
 #!/bin/bash
 
-echo "this scripts generate random number"
 
-# welcome
+get_rand()
+{
 
-echo $RANDOM
+	echo "this scripts generate random number"
+
+	# welcome
+
+	echo $RANDOM
+}
+
+get_rand
 
 #hi
 
