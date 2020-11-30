@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+<<<<<<< HEAD
 get_rand()
 {
 
@@ -16,3 +17,6 @@ get_rand
 #hi
 
 #this change made after branch
+=======
+echo $RANDOM
+>>>>>>> parent of 4ef0859... add comment
