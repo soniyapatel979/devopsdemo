@@ -16,5 +16,3 @@ get_rand
 #hi
 
 #this change made after branch
-
-#additional changes
